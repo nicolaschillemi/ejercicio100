@@ -14,6 +14,6 @@ void main() {
         }
     }
 
-    printf("%i",impares);
+    printf("La cantidad de n%imeros impares es %i",163,impares);
 
 }
